@@ -1,7 +1,7 @@
 package = "luasyslog"
 version = "1.0.1-0"
 source = {
-   url = "https://github.com/vkorehov/luasyslog",
+   url = "git://github.com/vkorehov/luasyslog",
 }
 description = {
    summary = "Syslog logging for Lua",
